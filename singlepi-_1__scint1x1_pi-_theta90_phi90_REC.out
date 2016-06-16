@@ -1,0 +1,44 @@
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+no points to load!
+too few points (minimum 4)
+ERROR: LoadError: MethodError: `zero` has no method matching zero(::Type{Any})
+ in volume at /home/noec329/.julia/v0.4/MeshTools/src/meshvolume.jl:6
+ in call at /home/noec329/lcdata/lciohist.jl:44
+ in mappositions at /home/noec329/lcdata/LCIOUtils.jl:65
+ in mappositions at /home/noec329/lcdata/LCIOUtils.jl:44
+ in include at ./boot.jl:261
+ in include_from_node1 at ./loading.jl:304
+ in process_options at ./client.jl:280
+ in _start at ./client.jl:378
+while loading /home/noec329/lcdata/lciohist.jl, in expression starting on line 67
